@@ -1,5 +1,7 @@
 # DOM-Practice-Projects
 
+1. Counter App
+
 🎯 Goal
 This repository documents my JavaScript learning journey through hands-on projects. Each project focuses on strengthening problem-solving skills and understanding how JavaScript interacts with the browser.
 
